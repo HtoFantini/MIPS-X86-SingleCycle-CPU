@@ -1,0 +1,151 @@
+C:/Processador/MEMORIA_DE_INSTRUCOES.vhd {1 {vcom -work work -2002 -explicit C:/Processador/MEMORIA_DE_INSTRUCOES.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MEMORIA_DE_INSTRUCOES
+-- Compiling architecture arch of MEMORIA_DE_INSTRUCOES
+
+} {} {}} C:/Processador/PORTA_AND.vhd {1 {vcom -work work -2002 -explicit C:/Processador/PORTA_AND.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity PORTA_AND
+-- Compiling architecture BEV of PORTA_AND
+
+} {} {}} C:/Processador/RAM.vhd {1 {vcom -work work -2002 -explicit C:/Processador/RAM.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity RAM
+-- Compiling architecture BEV of RAM
+
+} {} {}} C:/Processador/somador32.vhd {1 {vcom -work work -2002 -explicit C:/Processador/somador32.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity somador32
+-- Compiling architecture rtl of somador32
+
+} {} {}} C:/Processador/ALU_CONTROL.vhd {1 {vcom -work work -2002 -explicit C:/Processador/ALU_CONTROL.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ALU_CONTROL
+-- Compiling architecture BEV of ALU_CONTROL
+
+} {} {}} C:/Processador/Gerador_Imediato.vhd {1 {vcom -work work -2002 -explicit C:/Processador/Gerador_Imediato.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity GERADOR_IMEDIATO
+-- Compiling architecture rtl of GERADOR_IMEDIATO
+
+} {} {}} C:/Processador/SEPARADOR_INSTRUCAO.vhd {1 {vcom -work work -2002 -explicit C:/Processador/SEPARADOR_INSTRUCAO.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SEPARADOR_INSTRUCAO
+-- Compiling architecture rtl of SEPARADOR_INSTRUCAO
+
+} {} {}} C:/Processador/BANCO_DE_REGISTRADORES.vhd {1 {vcom -work work -2002 -explicit C:/Processador/BANCO_DE_REGISTRADORES.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity BANCO_DE_REGISTRADORES
+-- Compiling architecture BEV of BANCO_DE_REGISTRADORES
+
+} {} {}} C:/Processador/controladora.vhd {1 {vcom -work work -2002 -explicit C:/Processador/controladora.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CONTROLADORA
+-- Compiling architecture rtl of CONTROLADORA
+
+} {} {}} C:/Processador/deslocador.vhd {1 {vcom -work work -2002 -explicit C:/Processador/deslocador.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity deslocador
+-- Compiling architecture arch of deslocador
+
+} {} {}} C:/Processador/Processador_TB.vhd {1 {vcom -work work -2002 -explicit C:/Processador/Processador_TB.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Processador_TB
+-- Compiling architecture testbench of Processador_TB
+
+} {} {}} C:/Processador/alu.vhd {1 {vcom -work work -2002 -explicit C:/Processador/alu.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity alu
+-- Compiling architecture arch of alu
+
+} {} {}} C:/Processador/mux.vhd {1 {vcom -work work -2002 -explicit C:/Processador/mux.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux
+-- Compiling architecture Behavior of mux
+
+} {} {}} C:/Processador/registrador32.vhd {1 {vcom -work work -2002 -explicit C:/Processador/registrador32.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity registrador32
+-- Compiling architecture rtl of registrador32
+
+} {} {}} C:/Processador/soma4.vhd {1 {vcom -work work -2002 -explicit C:/Processador/soma4.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity soma4
+-- Compiling architecture rtl of soma4
+
+} {} {}} C:/Processador/Processador.vhd {1 {vcom -work work -2002 -explicit C:/Processador/Processador.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity Processador
+-- Compiling architecture rtl of Processador
+
+} {} {}}

@@ -1,0 +1,31 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vcom -93 -work work {C:/Processador/registrador32.vhd}
+vcom -93 -work work {C:/Processador/RAM.vhd}
+vcom -93 -work work {C:/Processador/PORTA_AND.vhd}
+vcom -93 -work work {C:/Processador/mux.vhd}
+vcom -93 -work work {C:/Processador/MEMORIA_DE_INSTRUCOES.vhd}
+vcom -93 -work work {C:/Processador/Gerador_Imediato.vhd}
+vcom -93 -work work {C:/Processador/deslocador.vhd}
+vcom -93 -work work {C:/Processador/controladora.vhd}
+vcom -93 -work work {C:/Processador/BANCO_DE_REGISTRADORES.vhd}
+vcom -93 -work work {C:/Processador/ALU_CONTROL.vhd}
+vcom -93 -work work {C:/Processador/alu.vhd}
+vcom -93 -work work {C:/Processador/SEPARADOR_INSTRUCAO.vhd}
+vcom -93 -work work {C:/Processador/soma4.vhd}
+vcom -93 -work work {C:/Processador/somador32.vhd}
+vcom -93 -work work {C:/Processador/Processador.vhd}
+
+vcom -93 -work work {C:/Processador/Processador_TB.vhd}
+
+vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L cyclonev -L rtl_work -L work -voptargs="+acc"  Processador_TB
+
+add wave *
+view structure
+view signals
+run 400 ns

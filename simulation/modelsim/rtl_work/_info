@@ -1,0 +1,717 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/leona/Desktop/SingleCycle/simulation/modelsim
+Ealu
+Z1 w1702141371
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx4 ieee 16 std_logic_signed 0 22 C<aanc0R`<LWPSe[JYRP^3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 10
+R0
+Z7 8C:/Users/leona/Desktop/SingleCycle/alu.vhd
+Z8 FC:/Users/leona/Desktop/SingleCycle/alu.vhd
+l0
+L6 1
+VeAQF6;d_Tb>Z6LK`Um?n80
+!s100 _J40>KgiESAc<R2C1a`kI3
+Z9 OV;C;2020.1;71
+31
+Z10 !s110 1702211737
+!i10b 1
+Z11 !s108 1702211737.000000
+Z12 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/alu.vhd|
+Z13 !s107 C:/Users/leona/Desktop/SingleCycle/alu.vhd|
+!i113 1
+Z14 o-93 -work work
+Z15 tExplicit 1 CvgOpt 0
+Aarch
+R2
+R3
+R4
+R5
+R6
+DEx4 work 3 alu 0 22 eAQF6;d_Tb>Z6LK`Um?n80
+!i122 10
+l32
+L31 59
+VY6CCmZEf=z5I;La^a0[=A0
+!s100 Ijzdd5F;aZdMY@l;OEN><2
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Ealu_control
+R1
+R3
+Z16 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+R5
+R6
+!i122 9
+R0
+Z17 8C:/Users/leona/Desktop/SingleCycle/ALU_CONTROL.vhd
+Z18 FC:/Users/leona/Desktop/SingleCycle/ALU_CONTROL.vhd
+l0
+L8 1
+VeKkz3oP>;YnfR=M6CREA:3
+!s100 WCjAb=0W1UAPEN6he@z1D2
+R9
+31
+R10
+!i10b 1
+R11
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/ALU_CONTROL.vhd|
+Z20 !s107 C:/Users/leona/Desktop/SingleCycle/ALU_CONTROL.vhd|
+!i113 1
+R14
+R15
+Abev
+R3
+R16
+R5
+R6
+DEx4 work 11 alu_control 0 22 eKkz3oP>;YnfR=M6CREA:3
+!i122 9
+l19
+L18 62
+V0LOLC1KDIQj>B?1Q[a>nG0
+!s100 BlMOL??`@c6m;5_IL3JeW1
+R9
+31
+R10
+!i10b 1
+R11
+R19
+R20
+!i113 1
+R14
+R15
+Ebanco_de_registradores
+Z21 w1702211457
+Z22 DPx4 ieee 16 std_logic_textio 0 22 ^l:n6VFdg74Q?CKDhjD]D3
+R16
+R2
+R3
+R5
+R6
+!i122 8
+R0
+Z23 8C:/Users/leona/Desktop/SingleCycle/BANCO_DE_REGISTRADORES.vhd
+Z24 FC:/Users/leona/Desktop/SingleCycle/BANCO_DE_REGISTRADORES.vhd
+l0
+L10 1
+Vjk=WcS[Ig]PZzGjgDd7R`3
+!s100 H>[zd7`1M7nmP6G_f561c2
+R9
+31
+R10
+!i10b 1
+Z25 !s108 1702211736.000000
+Z26 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/BANCO_DE_REGISTRADORES.vhd|
+Z27 !s107 C:/Users/leona/Desktop/SingleCycle/BANCO_DE_REGISTRADORES.vhd|
+!i113 1
+R14
+R15
+Abev
+R22
+R16
+R2
+R3
+R5
+R6
+DEx4 work 22 banco_de_registradores 0 22 jk=WcS[Ig]PZzGjgDd7R`3
+!i122 8
+l45
+L24 55
+V@FC]DWVVFVO4MB13oYWPa3
+!s100 MF@NPL1Hio=`WziEj[LZ<3
+R9
+31
+R10
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R14
+R15
+Econtroladora
+R1
+R5
+R6
+!i122 7
+R0
+Z28 8C:/Users/leona/Desktop/SingleCycle/controladora.vhd
+Z29 FC:/Users/leona/Desktop/SingleCycle/controladora.vhd
+l0
+L4 1
+VbKUk5=FUoCi6Rm7BegbBz1
+!s100 ]^@RD2cR`ePYfe3V4O0k;2
+R9
+31
+Z30 !s110 1702211736
+!i10b 1
+R25
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/controladora.vhd|
+Z32 !s107 C:/Users/leona/Desktop/SingleCycle/controladora.vhd|
+!i113 1
+R14
+R15
+Artl
+R5
+R6
+DEx4 work 12 controladora 0 22 bKUk5=FUoCi6Rm7BegbBz1
+!i122 7
+l20
+L19 107
+VNIMmFob2kjbA03FY?Fme03
+!s100 eXGTD6QX2Kzd:^Ei[l5J@2
+R9
+31
+R30
+!i10b 1
+R25
+R31
+R32
+!i113 1
+R14
+R15
+Edeslocador
+Z33 w1702141372
+R2
+R5
+R6
+!i122 6
+R0
+Z34 8C:/Users/leona/Desktop/SingleCycle/deslocador.vhd
+Z35 FC:/Users/leona/Desktop/SingleCycle/deslocador.vhd
+l0
+L4 1
+V8<I:>VV4ab?bGV>lnKmjA0
+!s100 TRgl34iH6b=;R2_EPA6a60
+R9
+31
+R30
+!i10b 1
+R25
+Z36 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/deslocador.vhd|
+Z37 !s107 C:/Users/leona/Desktop/SingleCycle/deslocador.vhd|
+!i113 1
+R14
+R15
+Aarch
+R2
+R5
+R6
+DEx4 work 10 deslocador 0 22 8<I:>VV4ab?bGV>lnKmjA0
+!i122 6
+l13
+L12 14
+VZBde8TYFC]0e;N`4gK<ad3
+!s100 O1W9mlKiIUVIIZn[8JWje3
+R9
+31
+R30
+!i10b 1
+R25
+R36
+R37
+!i113 1
+R14
+R15
+Egerador_imediato
+R1
+R5
+R6
+!i122 5
+R0
+Z38 8C:/Users/leona/Desktop/SingleCycle/Gerador_Imediato.vhd
+Z39 FC:/Users/leona/Desktop/SingleCycle/Gerador_Imediato.vhd
+l0
+L4 1
+VF`FGUd3jLJcNVNQC:W1A13
+!s100 ^fAaINSnZ8aGZ]YRW6aG_2
+R9
+31
+R30
+!i10b 1
+R25
+Z40 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/Gerador_Imediato.vhd|
+Z41 !s107 C:/Users/leona/Desktop/SingleCycle/Gerador_Imediato.vhd|
+!i113 1
+R14
+R15
+Artl
+R5
+R6
+DEx4 work 16 gerador_imediato 0 22 F`FGUd3jLJcNVNQC:W1A13
+!i122 5
+l16
+L13 68
+V88Lik?aTYoflHFY0ImDm53
+!s100 nbN9mSPGkb@O@fH8fL[SF0
+R9
+31
+R30
+!i10b 1
+R25
+R40
+R41
+!i113 1
+R14
+R15
+Ememoria_de_instrucoes
+Z42 w1702171551
+R2
+R5
+R6
+!i122 4
+R0
+Z43 8C:/Users/leona/Desktop/SingleCycle/MEMORIA_DE_INSTRUCOES.vhd
+Z44 FC:/Users/leona/Desktop/SingleCycle/MEMORIA_DE_INSTRUCOES.vhd
+l0
+L5 1
+VG?g24lzLe>96K49PNa^JV3
+!s100 kWo;fm987=;WIZ2W2:VWe3
+R9
+31
+Z45 !s110 1702211735
+!i10b 1
+Z46 !s108 1702211735.000000
+Z47 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/MEMORIA_DE_INSTRUCOES.vhd|
+Z48 !s107 C:/Users/leona/Desktop/SingleCycle/MEMORIA_DE_INSTRUCOES.vhd|
+!i113 1
+R14
+R15
+Aarch
+R2
+R5
+R6
+DEx4 work 21 memoria_de_instrucoes 0 22 G?g24lzLe>96K49PNa^JV3
+!i122 4
+l65
+L19 49
+VKO5FgJ^naDagGae2[VDTC1
+!s100 0TNcEOaR>`GzT90=eQ_3D2
+R9
+31
+R30
+!i10b 1
+R46
+R47
+R48
+!i113 1
+R14
+R15
+Emux
+R33
+R5
+R6
+!i122 3
+R0
+Z49 8C:/Users/leona/Desktop/SingleCycle/mux.vhd
+Z50 FC:/Users/leona/Desktop/SingleCycle/mux.vhd
+l0
+L4 1
+V^ahEe;>]Ui:GPFXgN2d]g2
+!s100 GcD?dYUV_e`c@Rd;KEQZf1
+R9
+31
+R45
+!i10b 1
+R46
+Z51 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/mux.vhd|
+Z52 !s107 C:/Users/leona/Desktop/SingleCycle/mux.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R5
+R6
+DEx4 work 3 mux 0 22 ^ahEe;>]Ui:GPFXgN2d]g2
+!i122 3
+l11
+L10 4
+Vc83_1U;oVYiSdlF5<W29B1
+!s100 76;Z]>TMTSj`X4S@ZI0W50
+R9
+31
+R45
+!i10b 1
+R46
+R51
+R52
+!i113 1
+R14
+R15
+Eporta_and
+R1
+R3
+R16
+R5
+R6
+!i122 2
+R0
+Z53 8C:/Users/leona/Desktop/SingleCycle/PORTA_AND.vhd
+Z54 FC:/Users/leona/Desktop/SingleCycle/PORTA_AND.vhd
+l0
+L8 1
+VlR_f1i;UN7o_Pl1RlMUQo1
+!s100 Y5AWk3:C4ZW?<8h4AXkQ12
+R9
+31
+R45
+!i10b 1
+R46
+Z55 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/PORTA_AND.vhd|
+Z56 !s107 C:/Users/leona/Desktop/SingleCycle/PORTA_AND.vhd|
+!i113 1
+R14
+R15
+Abev
+R3
+R16
+R5
+R6
+DEx4 work 9 porta_and 0 22 lR_f1i;UN7o_Pl1RlMUQo1
+!i122 2
+l18
+L17 6
+V32JBVPig36YS=NCm3oUG20
+!s100 =5T?I0goh]QFg<_DM7V?]2
+R9
+31
+R45
+!i10b 1
+R46
+R55
+R56
+!i113 1
+R14
+R15
+Eprocessador
+R1
+R3
+R4
+R2
+R5
+R6
+!i122 14
+R0
+Z57 8C:/Users/leona/Desktop/SingleCycle/Processador.vhd
+Z58 FC:/Users/leona/Desktop/SingleCycle/Processador.vhd
+l0
+L9 1
+VWHFJYag=fN[5O8OZ2:O<>0
+!s100 V7z?fM59Q>bd3XBV2o><_3
+R9
+31
+Z59 !s110 1702211739
+!i10b 1
+Z60 !s108 1702211738.000000
+Z61 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/Processador.vhd|
+Z62 !s107 C:/Users/leona/Desktop/SingleCycle/Processador.vhd|
+!i113 1
+R14
+R15
+Artl
+R3
+R4
+R2
+R5
+R6
+DEx4 work 11 processador 0 22 WHFJYag=fN[5O8OZ2:O<>0
+!i122 14
+l238
+L21 260
+V@]`1[i=AGj8B[UQm1OFAQ1
+!s100 XJHJn3Q[HIziXUXaEg0Ie2
+R9
+31
+R59
+!i10b 1
+R60
+R61
+R62
+!i113 1
+R14
+R15
+Eprocessador_tb
+R1
+R5
+R6
+!i122 15
+R0
+Z63 8C:/Users/leona/Desktop/SingleCycle/Processador_TB.vhd
+Z64 FC:/Users/leona/Desktop/SingleCycle/Processador_TB.vhd
+l0
+L6 1
+VNEdEAeaOl=KQ`;fHW97OR0
+!s100 AMW;EzjEDHEXdickFGD:;0
+R9
+31
+R59
+!i10b 1
+Z65 !s108 1702211739.000000
+Z66 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/Processador_TB.vhd|
+!s107 C:/Users/leona/Desktop/SingleCycle/Processador_TB.vhd|
+!i113 1
+R14
+R15
+Atestbench
+R5
+R6
+DEx4 work 14 processador_tb 0 22 NEdEAeaOl=KQ`;fHW97OR0
+!i122 15
+l28
+L9 37
+VEiXb@;8B^RYkXH1PLY]Po3
+!s100 iS@gc=`a[?;:dT[bFiaQO1
+R9
+31
+R59
+!i10b 1
+R65
+R66
+Z67 !s107 C:/Users/leona/Desktop/SingleCycle/Processador_TB.vhd|
+!i113 1
+R14
+R15
+Eram
+Z68 w1702157211
+R3
+R16
+R5
+R6
+!i122 1
+R0
+Z69 8C:/Users/leona/Desktop/SingleCycle/RAM.vhd
+Z70 FC:/Users/leona/Desktop/SingleCycle/RAM.vhd
+l0
+L9 1
+V^BzPXm4DPB[F^RPFVch@71
+!s100 zO_T8T04SnoEi@DRCIB=<2
+R9
+31
+R45
+!i10b 1
+Z71 !s108 1702211734.000000
+Z72 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/RAM.vhd|
+Z73 !s107 C:/Users/leona/Desktop/SingleCycle/RAM.vhd|
+!i113 1
+R14
+R15
+Abev
+R3
+R16
+R5
+R6
+DEx4 work 3 ram 0 22 ^BzPXm4DPB[F^RPFVch@71
+!i122 1
+l28
+L22 37
+V7i[H9f6?`^[ge?oc3Jn;[2
+!s100 ESF1U]<1aP240i11IJeE72
+R9
+31
+R45
+!i10b 1
+R71
+R72
+R73
+!i113 1
+R14
+R15
+Eregistrador32
+R33
+R2
+R5
+R6
+!i122 0
+R0
+Z74 8C:/Users/leona/Desktop/SingleCycle/registrador32.vhd
+Z75 FC:/Users/leona/Desktop/SingleCycle/registrador32.vhd
+l0
+L7 1
+Vj0nOQdI@XOSMZNbE?mCk[0
+!s100 02>FJRAodaG2R9P:zQQZW3
+R9
+31
+Z76 !s110 1702211734
+!i10b 1
+R71
+Z77 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/registrador32.vhd|
+Z78 !s107 C:/Users/leona/Desktop/SingleCycle/registrador32.vhd|
+!i113 1
+R14
+R15
+Artl
+R2
+R5
+R6
+DEx4 work 13 registrador32 0 22 j0nOQdI@XOSMZNbE?mCk[0
+!i122 0
+l21
+L20 15
+VkI3NHDbe610T1OjCBhE`C1
+!s100 Z=c]OP:6AOfdBcWIR>j]40
+R9
+31
+R76
+!i10b 1
+R71
+R77
+R78
+!i113 1
+R14
+R15
+Eseparador_instrucao
+R1
+R5
+R6
+!i122 11
+R0
+Z79 8C:/Users/leona/Desktop/SingleCycle/SEPARADOR_INSTRUCAO.vhd
+Z80 FC:/Users/leona/Desktop/SingleCycle/SEPARADOR_INSTRUCAO.vhd
+l0
+L4 1
+VZP`fz9bcZOAaVjhcikU0E1
+!s100 QFNM;2FjU1GR>cg6M@SZ61
+R9
+31
+R10
+!i10b 1
+R11
+Z81 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/SEPARADOR_INSTRUCAO.vhd|
+Z82 !s107 C:/Users/leona/Desktop/SingleCycle/SEPARADOR_INSTRUCAO.vhd|
+!i113 1
+R14
+R15
+Artl
+R5
+R6
+DEx4 work 19 separador_instrucao 0 22 ZP`fz9bcZOAaVjhcikU0E1
+!i122 11
+l20
+L18 25
+V@0^zRS[jm7_]d2?MQXeL@0
+!s100 AHkEVNWM0@O?C;=1`f@NM0
+R9
+31
+R10
+!i10b 1
+R11
+R81
+R82
+!i113 1
+R14
+R15
+Esoma4
+R33
+R3
+R4
+R2
+R5
+R6
+!i122 12
+R0
+Z83 8C:/Users/leona/Desktop/SingleCycle/soma4.vhd
+Z84 FC:/Users/leona/Desktop/SingleCycle/soma4.vhd
+l0
+L7 1
+VnanFfVATzL:=KU[`OLjWl1
+!s100 8nL7=h[6GD3C42a8l9HFM3
+R9
+31
+Z85 !s110 1702211738
+!i10b 1
+R11
+Z86 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/soma4.vhd|
+Z87 !s107 C:/Users/leona/Desktop/SingleCycle/soma4.vhd|
+!i113 1
+R14
+R15
+Artl
+R3
+R4
+R2
+R5
+R6
+DEx4 work 5 soma4 0 22 nanFfVATzL:=KU[`OLjWl1
+!i122 12
+l16
+L15 4
+VfHmaPB638SJ[7EhjlTO7Z3
+!s100 3UVD9KoNZnge4[O2gcNA92
+R9
+31
+R85
+!i10b 1
+R11
+R86
+R87
+!i113 1
+R14
+R15
+Esomador32
+R33
+R2
+R3
+R4
+R5
+R6
+!i122 13
+R0
+Z88 8C:/Users/leona/Desktop/SingleCycle/somador32.vhd
+Z89 FC:/Users/leona/Desktop/SingleCycle/somador32.vhd
+l0
+L7 1
+V@;Di:c3Sk?g`Al8WGeB8L2
+!s100 4liOegdCBVbBTSB9Gk3lh3
+R9
+31
+R85
+!i10b 1
+R60
+Z90 !s90 -reportprogress|300|-93|-work|work|C:/Users/leona/Desktop/SingleCycle/somador32.vhd|
+Z91 !s107 C:/Users/leona/Desktop/SingleCycle/somador32.vhd|
+!i113 1
+R14
+R15
+Artl
+R2
+R3
+R4
+R5
+R6
+DEx4 work 9 somador32 0 22 @;Di:c3Sk?g`Al8WGeB8L2
+!i122 13
+l17
+L16 5
+VZJjkKk2if0g<WmNmOXWiY0
+!s100 I]Mhn5VSD2C7<b44[SZUP3
+R9
+31
+R85
+!i10b 1
+R60
+R90
+R91
+!i113 1
+R14
+R15

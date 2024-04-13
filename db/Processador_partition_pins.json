@@ -1,0 +1,141 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Saida[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[9]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[10]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[11]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[12]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[13]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[16]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[17]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[18]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[19]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[20]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[21]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[22]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[23]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[24]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[25]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[26]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[27]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[28]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[29]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[30]",
+					"strict" : false
+				},
+				{
+					"name" : "Saida[31]",
+					"strict" : false
+				},
+				{
+					"name" : "Clock",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
